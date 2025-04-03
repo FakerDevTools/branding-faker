@@ -132,7 +132,7 @@ HEX: #EDEDED
 <td width="50%">
 
 <h3>Standard Coloured Logo Horizontal</h3>
-<img src="png/faker-dev-logo-horizontal-coloured.png">
+<img src="png/faker-dev-logo-horizontal-coloured-bg.png">
 <ul>
 <li><a href="png/faker-dev-logo-horizontal-coloured.png" download>faker-dev-logo-horizontal-coloured.png</a></li>
 <li><a href="svg/faker-dev-logo-horizontal-coloured.svg" download>faker-dev-logo-horizontal-coloured.svg</a></li>
@@ -156,7 +156,7 @@ HEX: #EDEDED
 <td width="50%">
 
 <h3>Logo Black Horizontal</h3>
-<img src="png/faker-dev-logo-horizonatl-black.png">
+<img src="png/faker-dev-logo-horizonatl-black-bg.png">
 <ul>
 <li><a href="png/faker-dev-logo-horizontal-black.png" download>faker-dev-logo-horizontal-black.png</a></li>
 <li><a href="svg/faker-dev-logo-horizontal-black.svg" download>faker-dev-logo-horizontal-black.svg</a></li>
@@ -164,6 +164,27 @@ HEX: #EDEDED
 </ul>
 
 </td>
+<h3>Standard Logo White </h3>
+<img src="png/faker-dev-logo-white-bg.png">
+<ul>
+<li><a href="png/faker-dev-logo-white.png" download>faker-dev-logo-white.png</a></li>
+<li><a href="svg/faker-dev-logo-white.svg" download>faker-dev-logo-white.svg</a></li>
+<li><a href="eps/faker-dev-logo-white.eps" download>faker-dev-logo-white.eps</a></li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h3>Logo White Horizontal</h3>
+<img src="png/faker-dev-logo-horizonatl-white-bg.png">
+<ul>
+<li><a href="png/faker-dev-logo-horizontal-white.png" download>faker-dev-logo-horizontal-white.png</a></li>
+<li><a href="svg/faker-dev-logo-horizontal-white.svg" download>faker-dev-logo-horizontal-whtie.svg</a></li>
+<li><a href="eps/faker-dev-logo-horizontal-white.eps" download>faker-dev-logo-horizontal-white.eps</a></li>
+</ul>
+
+</td>
+</tr>
 </tr>
 </table>
 
