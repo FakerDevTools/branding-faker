@@ -27,16 +27,23 @@ Please refer to the publications below for the brand guidelines which review the
 
 <table>
 <tr>
-<td width="50%">
+<td width="33.3%">
 
 <h3>Coloured Logo</h3>
 <img src="png/faker-dev-logo-coloured.png">
 
 </td>
-<td width="50%">
+<td width="33.3%">
 
 <h3>Monotone Logo (Black)</h3>
 <img src="png/faker-dev-logo-black.png">
+
+</td>
+
+<td width="33.3%">
+
+<h3>Monotone Logo (White)</h3>
+<img src="png/faker-dev-logo-white-bg.png">
 
 </td>
 </tr>
@@ -61,7 +68,7 @@ HEX: #FF5B00
 
 <strong>BLUE</strong>
 <br>
-CMYK: 99 96 4 0.4
+CMYK: 99 96 4 0
 <br>
 RGB: 46 54 144
 <br>
@@ -86,6 +93,27 @@ HEX: #EDEDED
 </tr>
 </table>
 
+## LOGO FORMAT
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>Vertical Format:</h3>
+<p>Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.</p>
+<img src="png/faker-dev-logo-coloured.png">
+
+</td>
+<td width="50%">
+
+<h3>Horizontal Format:</h3>
+<p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
+<img src="png/faker-dev-logo-horizontal-coloured.png">
+
+</td>
+</tr>
+</table>
+
 ## DOWNLOADS
 
 <table>
@@ -96,15 +124,19 @@ HEX: #EDEDED
 <img src="png/faker-dev-logo-coloured.png">
 <ul>
 <li><a href="png/faker-dev-logo-coloured.png" download>faker-dev-logo-coloured.png</a></li>
+<li><a href="svg/faker-dev-logo-coloured.svg" download>faker-dev-logo-coloured.svg</a></li>
+<li><a href="eps/faker-dev-logo-coloured.eps" download>faker-dev-logo-coloured.eps</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>Standard Coloured Logo Horizontal</h3>
-<img src="png/CodeAdam_Logo_Coloured_Horizontal.png">
+<img src="png/faker-dev-logo-horizontal-coloured.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Coloured_Horizontal.png" download>CodeAdam_Logo_Coloured_Horizontal.png</a></li>
+<li><a href="png/faker-dev-logo-horizontal-coloured.png" download>faker-dev-logo-horizontal-coloured.png</a></li>
+<li><a href="svg/faker-dev-logo-horizontal-coloured.svg" download>faker-dev-logo-horizontal-coloured.svg</a></li>
+<li><a href="eps/faker-dev-logo-horizontal-coloured.eps" download>faker-dev-logo-horizontal-coloured.eps</a></li>
 </ul>
 
 </td>
@@ -113,18 +145,22 @@ HEX: #EDEDED
 <td width="50%">
 
 <h3>Standard Logo Black </h3>
-<img src="png/CodeAdam_Logo_Black.png">
+<img src="png/faker-dev-logo-black.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Black.png" download>CodeAdam_Logo_Black.png</a></li>
+<li><a href="png/faker-dev-logo-black.png" download>faker-dev-logo-black.png</a></li>
+<li><a href="svg/faker-dev-logo-black.svg" download>faker-dev-logo-black.svg</a></li>
+<li><a href="eps/faker-dev-logo-black.eps" download>faker-dev-logo-black.eps</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>Logo Black Horizontal</h3>
-<img src="png/CodeAdam_Logo_Black_Horizontal.png">
+<img src="png/faker-dev-logo-horizonatl-black.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Black_Horizontal.png" download>CodeAdam_Logo_Black_Horizontal.png</a></li>
+<li><a href="png/faker-dev-logo-horizontal-black.png" download>faker-dev-logo-horizontal-black.png</a></li>
+<li><a href="svg/faker-dev-logo-horizontal-black.svg" download>faker-dev-logo-horizontal-black.svg</a></li>
+<li><a href="eps/faker-dev-logo-horizontal-black.eps" download>faker-dev-logo-horizontal-black.eps</a></li>
 </ul>
 
 </td>
