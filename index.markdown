@@ -8,7 +8,7 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-## CODEADAM LOGOS
+## FAKER DEV TOOLS LOGOS
 
 <table>
 <tr>
@@ -16,7 +16,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>Primary Logo:</h3>
 <p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
-<img src="png/CodeAdam_Logo_Coloured.png">
+<img src="png/faker-dev-logo-coloured.png">
 
 </td>
 <td width="50%"></td>
@@ -30,19 +30,19 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>Coloured Logo</h3>
-<img src="png/CodeAdam_Logo_Coloured.png">
+<img src="png/faker-dev-logo-coloured.png">
 
 </td>
 <td width="50%">
 
 <h3>Monotone Logo (Black)</h3>
-<img src="png/CodeAdam_Logo_Black.png">
+<img src="png/faker-dev-logo-black.png">
 
 </td>
 </tr>
 </table>
 
-<table style="width:100%;">
+<table style= width:"100%";>
 <tr>
 <td width="33.3%">
 
@@ -52,22 +52,22 @@ CMYK: 0 79 100 0
 <br>
 RGB: 255 91 0
 <br>
-HEX: #ff5b00
+HEX: #FF5B00
 <br>
 <img src="colours/Orange.jpg" width="100" height="100">
 
 </td>
 <td width="33.3%">
 
-<strong>RED</strong>
+<strong>BLUE</strong>
 <br>
-CMYK: 0 99 100 0
+CMYK: 99 96 4 0.4
 <br>
-RGB: 255 0 0
+RGB: 46 54 144
 <br>
-HEX: #ff0000
+HEX: #2E3690
 <br>
-<img src="colours/Red.jpg" width="100" height="100">
+<img src="colours/Blue.jpg" width="100" height="100">
 
 </td>
 <td width="33.3%">
@@ -78,7 +78,7 @@ CMYK: 6 6 4 0
 <br>
 RGB: 237 237 237
 <br>
-HEX: #ededed
+HEX: #EDEDED
 <br>
 <img src="colours/Grey.jpg" width="100" height="100">
 
@@ -93,9 +93,9 @@ HEX: #ededed
 <td width="50%">
 
 <h3>Standard Coloured Logo</h3>
-<img src="png/CodeAdam_Logo_Coloured.png">
+<img src="png/faker-dev-logo-coloured.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Coloured.png" download>CodeAdam_Logo_Coloured.png</a></li>
+<li><a href="png/faker-dev-logo-coloured.png" download>faker-dev-logo-coloured.png</a></li>
 </ul>
 
 </td>
