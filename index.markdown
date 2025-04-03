@@ -4,7 +4,7 @@
 
 **Welcome to the Faker Dev Tools Brand Guidelines and Standards documentation. This guide is designed to apply our branding consistently across various media.**
 
-**A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent CodeAdam.**
+**A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent Faker Dev Tools.**
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
@@ -19,7 +19,11 @@ Please refer to the publications below for the brand guidelines which review the
 <img src="png/faker-dev-logo-coloured.png">
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+<h3>Secondary Logo:</h3>
+<p>In other circumstances, the secondary, horizontal logo will be more appropriate to use.</p>
+<img src="png/faker-dev-logo-horizontal-coloured-bg.png">
+</td>
 </tr>
 </table>
 
@@ -191,17 +195,54 @@ HEX: #EDEDED
 
 </tr>
 
+</table>
 
+## LOGO SYMBOLS ONLY
+
+<table>
+<tr>
+<td width="33.3%">
+
+<h3>Coloured Symbol</h3>
+<img src="png/faker-dev-logo-symbol-coloured.png">
+<ul>
+<li><a href="png/faker-dev-logo-symbol-coloured.png" download>faker-dev-logo-symbol-coloured.png</a></li>
+<li><a href="svg/faker-dev-logo-symbol-coloured.svg" download>faker-dev-logo-symbol-coloured.svg</a></li>
+<li><a href="eps/faker-dev-logo-symbol-coloured.eps" download>faker-dev-logo-symbol-coloured.eps</a></li>
+
+</ul>
+
+</td>
+<td width="33.3%">
+
+<h3>Black Symbol</h3>
+<img src="png/faker-dev-logo-symbol-black.png">
+<ul>
+<li><a href="png/faker-dev-logo-symbol-black.png" download>faker-dev-logo-symbol-black.png</a></li>
+<li><a href="svg/faker-dev-logo-symbol-black.svg" download>faker-dev-logo-symbol-black.svg</a></li>
+<li><a href="eps/faker-dev-logo-symbol-black.eps" download>faker-dev-logo-symbol-black.eps</a></li>
+</ul>
+
+</td>
+
+<td width="33.3%">
+
+<h3>White Symbol</h3>
+<img src="png/faker-dev-logo-symbol-white-bg.png">
+<ul>
+<li><a href="png/faker-dev-logo-symbol-white.png" download>faker-dev-logo-symbol-white.png</a></li>
+<li><a href="svg/faker-dev-logo-symbol-white.svg" download>faker-dev-logo-symbol-white.svg</a></li>
+<li><a href="eps/faker-dev-logo-symbol-white.eps" download>faker-dev-logo-symbol-white.eps</a></li>
+</ul>
+
+</td>
+</tr>
 </table>
 
 
 ## TYPOGRAPHY
 
-- <a href="https://fonts.google.com/specimen/Lato" target="_blank">Lato Family Font from Google Fonts</a>
 - <a href="https://fonts.google.com/specimen/PT+Sans" target="_blank">PT Sans Family Font from Google Fonts</a>
 
 ---
 
-<a href="https://codeadam.ca">
-<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
-</a>
