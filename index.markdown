@@ -108,7 +108,7 @@ HEX: #EDEDED
 
 <h3>Horizontal Format:</h3>
 <p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
-<img src="png/faker-dev-logo-horizontal-coloured.png">
+<img src="png/faker-dev-logo-horizontal-coloured-bg.png">
 
 </td>
 </tr>
@@ -141,6 +141,7 @@ HEX: #EDEDED
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -156,14 +157,17 @@ HEX: #EDEDED
 <td width="50%">
 
 <h3>Logo Black Horizontal</h3>
-<img src="png/faker-dev-logo-horizonatl-black-bg.png">
+<img src="png/faker-dev-logo-horizontal-black-bg.png">
 <ul>
 <li><a href="png/faker-dev-logo-horizontal-black.png" download>faker-dev-logo-horizontal-black.png</a></li>
 <li><a href="svg/faker-dev-logo-horizontal-black.svg" download>faker-dev-logo-horizontal-black.svg</a></li>
 <li><a href="eps/faker-dev-logo-horizontal-black.eps" download>faker-dev-logo-horizontal-black.eps</a></li>
 </ul>
-
+</tr>
 </td>
+
+<tr>
+<td>
 <h3>Standard Logo White </h3>
 <img src="png/faker-dev-logo-white-bg.png">
 <ul>
@@ -176,7 +180,7 @@ HEX: #EDEDED
 <td width="50%">
 
 <h3>Logo White Horizontal</h3>
-<img src="png/faker-dev-logo-horizonatl-white-bg.png">
+<img src="png/faker-dev-logo-horizontal-white-bg.png">
 <ul>
 <li><a href="png/faker-dev-logo-horizontal-white.png" download>faker-dev-logo-horizontal-white.png</a></li>
 <li><a href="svg/faker-dev-logo-horizontal-white.svg" download>faker-dev-logo-horizontal-whtie.svg</a></li>
@@ -184,7 +188,7 @@ HEX: #EDEDED
 </ul>
 
 </td>
-</tr>
+
 </tr>
 </table>
 
