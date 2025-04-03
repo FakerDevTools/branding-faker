@@ -2,7 +2,7 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-**Welcome to the CodeAdam Brand Guidelines and Standards documentation. This guide is designed to apply our branding consistently across various media.**
+**Welcome to the Faker Dev Tools Brand Guidelines and Standards documentation. This guide is designed to apply our branding consistently across various media.**
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent CodeAdam.**
 
