@@ -190,7 +190,10 @@ HEX: #EDEDED
 </td>
 
 </tr>
+
+
 </table>
+
 
 ## TYPOGRAPHY
 
