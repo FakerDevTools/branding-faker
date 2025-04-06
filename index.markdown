@@ -1,4 +1,4 @@
-# branding
+## Faker Development Tools Branding Guidelines
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
@@ -53,7 +53,7 @@ Please refer to the publications below for the brand guidelines which review the
 </tr>
 </table>
 
-<table style= width:"100%";>
+<table style="width:100%;">
 <tr>
 <td width="33.3%">
 
