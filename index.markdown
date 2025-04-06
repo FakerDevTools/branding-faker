@@ -239,10 +239,9 @@ HEX: #EDEDED
 </tr>
 </table>
 
-
 ## TYPOGRAPHY
 
-- <a href="https://fonts.google.com/specimen/PT+Sans" target="_blank">PT Sans Family Font from Google Fonts</a>
+<a href="https://fonts.google.com/specimen/PT+Sans" target="_blank">PT Sans Family Font from Google Fonts</a>
 
 ---
 
